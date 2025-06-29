@@ -6,6 +6,19 @@ This project is a machine learning-powered web application that predicts possibl
 
 Built using Python, scikit-learn, Streamlit, and pandas, the system supports manual input, natural language processing (NLP) for symptom description, batch predictions via CSV upload, and includes an admin dashboard for data and model management.
 
+## Problem Statement
+In many parts of the world, especially in low-resource settings, people delay visiting medical professionals due to lack of access, awareness, or cost. This leads to undiagnosed or misdiagnosed illnesses, increasing the risk of severe health outcomes. Additionally, patients often struggle with knowing the right kind of food to consume or avoid during illness, which can delay recovery or worsen symptoms.
+
+There is a need for an accessible, intelligent, and easy-to-use system that can:
+
+- Predict possible diseases based on user-reported symptoms.
+
+- Provide medical advice such as disease descriptions and precautions.
+
+- Recommend foods to eat or avoid based on the predicted illness.
+
+This project aims to solve that problem by building a machine learning-powered system that empowers users with health-related insights, using a smart, interactive interface.
+
 ## Features Implemented
 
 •	**Disease Prediction from Symptoms:**
