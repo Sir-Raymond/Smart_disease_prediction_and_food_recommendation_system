@@ -3,6 +3,5 @@ pandas
 scikit-learn
 joblib
 numpy
-matplotlib
 json
 re
