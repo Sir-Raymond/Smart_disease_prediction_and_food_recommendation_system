@@ -1,0 +1,166 @@
+{
+    "fungal infection": {
+        "Food to Eat": "Healthy fat, such as avocados and olives, herbs and spices, high quality protein like, eggs lean meat and fish, low sugar fruit, such as apples, grapefruit, and orange",
+        "Food to Avoid": "Added sugar, including honey, maple syrup, agave and molasses, Artificial sweetener, fruit in high sugar, processed meat, starchy vegetables like corn, peas and potatoes  "
+    },
+    "allergy": {
+        "Food to Eat": "vitamine C such as citrus fruits, including oranges, kiwi, lemon and grapefruit, bell peppers, strawberries, Tomatoes, white potatoes, cruciferous vegetables, including broccoli, brussels sprout, cabbage and cauliflower",
+        "Food to Avoid": "fried food, white bread and pastries, red meat(burgers, steaks) and processed meat (hot dogs, sausage. Fat-heavy spreads, such as butter or margarine"
+    },
+    "gerd": {
+        "Food to Eat": "non- citrus fruits such as bananas, melons, apples, and pears. Vegetable, lean meat, oatmeal, whole-grain bread, rice and couscous, unsaturated fats from plants and fish",
+        "Food to Avoid": "Fatty and fried foods, Spicy foods, citrus, tomato sauces and  vinegr, chocolate, caffeine, onions, peppermint carbonated drinks and alcohol "
+    },
+    "chronic cholestasis": {
+        "Food to Eat": "Fruits and vegetables, meats, poultry fish and seafood, eggs, beans and peas, tofu and soy. Whole grain, breads, cereals and bakery product, healthy fat and oil",
+        "Food to Avoid": "Sugars and highly refined foods, such as white bread and corn syrup, processed meats, full fat dairy products "
+    },
+    "drug reaction": {
+        "Food to Eat": "Crackers, rice, bread, and peanut butter, bananas, Foods Rich in Specific Nutrients, Foods that Promote Digestion",
+        "Food to Avoid": "Grapefruit, Alcohol, Dairy Products(Milk, yogurt, and cheese), Tyramine-Rich Foods, Vitamin K-Rich Foods, Fruits and Vegetables(grapes, oranges, and bell peppers)"
+    },
+    "peptic ulcer diseae": {
+        "Food to Eat": "fruits(Apples, grapes, berries, pomegranates), vegetables like leafy greens, bright red and orange vegetables, lean proteins (Skinless poultry, lean beef like sirloin or tenderloin, fish, eggs, tofu, tempeh, dry beans), probiotic foods, whole grains, herbs and spices",
+        "Food to Avoid": "Alcohol, caffeine, milk, certain meet (red meat), high-fat foods, spicy foods, salty foods, chocolate, raw vegetables "
+    },
+    "aids": {
+        "Food to Eat": "Balance Diet",
+        "Food to Avoid": "Raw eggs of foods that contain raw eggs, such as homemade cookie dough, Raw or undercooked poultry, meat, and seafood, milk, dairy products and fruit juices that are unpasteurized"
+    },
+    "diabetes": {
+        "Food to Eat": "Fruits, Vegetables, Whole grains, Legumes such as beans and peas, low-fat dairy products, such as milk and cheese, heart-healthy fish, avocados, nuts, canola, olive and peanut oils",
+        "Food to Avoid": "Saturated fats such as butter, beef, hot dogs, sausage and beacon, trans fats such as processed snacks, baked goods, shortening and stick margarines, cholesterol such as high fat animal proteins, egg yolks, liver and other organs meat, sodium "
+    },
+    "gastroenteritis": {
+        "Food to Eat": "Pastas, Rice, Lean meats prepared with little fat, lwow-fat cooked fish, eggs, fresh fruits , or fruits canned in their own juice, cooked vegetables, sugar - free cereals, bread",
+        "Food to Avoid": "Fruit Juice that contain a lot of sugar and fruit drinks, sports drinks such as Gatorade, soft or carbonated drinks, caffeinated drinks, broths and canned or packaged soups, fried foods  or those rich in fat  (delicatessen, potato chips, french fries, pasteries), ice cream, sherbe, popsicles and jellies (such as jell-O)"
+    },
+    "bronchial asthma": {
+        "Food to Eat": "Carrot, Citrus(Vitamin C, rich oranges, lemons, limes, and grapefruit), Almonds, Salmon (Healthy Fatty fish), Walnuts, Sardines, Oats",
+        "Food to Avoid": "peanuts and Tree nuts, Processed Meats (Sausage, beacon, and salami), Dairy (Milk, yogurt and Cheese), Sulfites"
+    },
+    "hypertension": {
+        "Food to Eat": "Apricots, Avocados, Melons(cantaloupe or honeydew), Fat-free or low-fat dairy products, Spinach and greens, fish (tuna and halibut), Legumes, Molasses, Mushrooms, oranges/orange juice, potatoes, prune/prune juice, raisins and dates, tomatoes ",
+        "Food to Avoid": "Processed meats (Bacon and hot dogs), Canned food with preservatives, High-sodium food such as pickles and chicken strips, fatty meats, especially red meat, vegetable oil and margarine, which are high trans fat, table salt, grapefruit "
+    },
+    "migraine": {
+        "Food to Eat": "Leafy greens (kale, spinach and collard greens), Nut(almonds, cashews and brazil nuts), beans, pumpkin and chia seed, Omega-3 fatty acids (oily fish such as salmon and mackerel), chia seeds, waluts, soybeans, highfat and low carbohydrate foods (lean meats, eggs, seafood, butter, nut and seeds and nonstarchy vegetables)",
+        "Food to Avoid": "Caffeine(Coffee, tea, chocolate), Artificial sweeteners, Alcohol, Chocolate, foods containing Monosodium glutamate(MSG), Cured meats(deli meats, ham, hot dog and sausages), Aged cheeses(feta, blue cheese, parmesan), Fermented foods (Fermented pickles, kimchi, alcohol), soy sauce, sauerkraut, frozen foods "
+    },
+    "cervical spondylosis": {
+        "Food to Eat": "Fruits and Vegetables, protein food, vitamin D, Omega-3 fatty acids, Antioxidants, ",
+        "Food to Avoid": "Processed foods, saturated fats, and excessive salt and sugar "
+    },
+    "paralysis (brain hemorrhage)": {
+        "Food to Eat": "Fruits, healthy fats (fatty fish, or seafood, nuts, seeds, avocado and extra-virgin olive oil, beans, vegetables, whole grains (farro, spelt, barley, and millet), Herbs and spices, soluble fiber, potassium ",
+        "Food to Avoid": "limit salt and sugary foods such as high saturated fat, biscuits, cates, patries, pies, processed meats, commercial burgesrs, pizza, fried food, potato chips, crips"
+    },
+    "jaundice": {
+        "Food to Eat": "Water, Sodium, Fruit and vegetables, lemons, limes, grapfruits, melon and papayas, potatoes, yams and pumpkins, avocados, ripe tomatoes, garlic with ginger, collard greens with spinach, coffee and sugarcane juice ",
+        "Food to Avoid": "Alcohol and caffeine, Processed foods, High-fat foods: Fried foods and greasy meats can strain the liver, Excessive dairy, Non-vegetarian foods"
+    },
+    "malaria": {
+        "Food to Eat": "Soft, cooked foods like mashed potatoes, rice porridge, and stews, water, juices, and coconut water to prevent dehydration, fish, chicken, or eggs in a light stew or soup, fruits and vegetables, like oranges, papayas, and spinach, beans, milk and dairy product, Honey",
+        "Food to Avoid": "Avoid fried, oily, and spicy foods, Limit high-fiber foods like whole grains, sugary, processed foods, pastries, and chip, caffeinated beverages (coffee, tea) and alcohol, Spicy Foods"
+    },
+    "chicken pox": {
+        "Food to Eat": "Rice, toast, pasta, oatmeal, and soups, Drink plenty of water, coconut water, herbal tea, and low-sugar sports drinks, Bananas, melons, berries, peaches, broccoli, kale, cucumbers, and spinach, Mung bean porridge, lotus seed porridge, brown rice porridge, asparagus, bananas, and other soft food ",
+        "Food to Avoid": "Spicy and Salty Foods, Acidic Foods: Citrus fruits and tomatoes, Popcorn, nuts, seeds, chips, and other crunchy items, Fried Foods. Garlic, chili, ginger, pepper, curry, mustard, dog meat, goat meat, seafood (shrimp, clams, snails, mussels), and certain fruits like lychee, longan, plums, mangoes, and jackfruit should be avoided, as they can be harmful. "
+    },
+    "dengue": {
+        "Food to Eat": "Water, coconut water, herbal teas (ginger, chamomile), and clear broths, Papaya, pomegranate, oranges, grapefruits, kiwi, and other fruits rich in vitamin C and K, Cooked vegetables like carrots, pumpkins, zucchini, and squash, as well as leafy greens like spinach, Chicken, fish, eggs, and other protein sources, Iron - rich food ",
+        "Food to Avoid": "Fatty and greasy foods: Fried foods, fast food, and processed meats. Sugary and processed foods: excessive sugar intake and processed items. Caffeinated and alcoholic beverages: Coffee, energy drinks, sodas, and alcohol. Foods that can worsen symptoms: Spicy foods and foods that cause gas (beans, chickpeas, broccoli, etc.). Dark-colored foods: Red, brown, or black foods, as they can confuse the doctor in case of vomiting. Foods that can increase bleeding risk: Aspirin, ibuprofen, and naproxen sodium. "
+    },
+    "typhoid": {
+        "Food to Eat": "Grains(White rice, pasta, white bread), Vegetables(Boiled or cooked vegetables like potatoes, carrots, green beans, beets, and squash), Fruits(Ripe bananas, melons, applesauce), Proteins (Eggs, chicken, turkey, fish, tofu, and ground meat), Dairy (Yogurt, low-fat or fat-free pasteurized milk, buttermilk, cheese, and ice cream), Fluids(Coconut water, lime juice, bottled water, herbal tea, juice, and broth), Soups",
+        "Food to Avoid": "Whole grains, oats, barley, nuts, seeds, and legumes, Spicy Foods, Fried and oily foods, Raw fruits and vegetables, Vegetables like broccoli, cabbage, cauliflower, and asparagus, Avoid fruits and vegetables that may have been washed with contaminated water "
+    },
+    "hepatitis a": {
+        "Food to Eat": "Plenty of vegetables and fruits, breads, rice, pasta, and noodles, fish, poultry, and alternatives, milk, yogurt, and cheese, avocados and nut butters, chickpeas, lentils, almonds, and peanuts, ofu and tempeh",
+        "Food to Avoid": "Processed Foods(Processed foods should be avoid like, fast food, and highly processed snacks), Sugary Drinks, Saturated Fats, Alcohol, Excessive Salt(Limit salt intake)"
+    },
+    "hepatitis b": {
+        "Food to Eat": "Plenty of vegetables and fruits, breads, rice, pasta, and noodles, fish, poultry, and alternatives, milk, yogurt, and cheese, avocados and nut butters, chickpeas, lentils, almonds, and peanuts, ofu and tempeh",
+        "Food to Avoid": "Processed Foods(Processed foods should be avoid like, fast food, and highly processed snacks), Sugary Drinks, Saturated Fats, Alcohol, Excessive Salt(Limit salt intake)"
+    },
+    "hepatitis c": {
+        "Food to Eat": "Plenty of vegetables and fruits, breads, rice, pasta, and noodles, fish, poultry, and alternatives, milk, yogurt, and cheese, avocados and nut butters, chickpeas, lentils, almonds, and peanuts, ofu and tempeh",
+        "Food to Avoid": "Processed Foods(Processed foods should be avoid like, fast food, and highly processed snacks), Sugary Drinks, Saturated Fats, Alcohol, Excessive Salt(Limit salt intake)"
+    },
+    "hepatitis d": {
+        "Food to Eat": "Plenty of vegetables and fruits, breads, rice, pasta, and noodles, fish, poultry, and alternatives, milk, yogurt, and cheese, avocados and nut butters, chickpeas, lentils, almonds, and peanuts, ofu and tempeh",
+        "Food to Avoid": "Processed Foods(Processed foods should be avoid like, fast food, and highly processed snacks), Sugary Drinks, Saturated Fats, Alcohol, Excessive Salt(Limit salt intake)"
+    },
+    "hepatitis e": {
+        "Food to Eat": "Plenty of vegetables and fruits, breads, rice, pasta, and noodles, fish, poultry, and alternatives, milk, yogurt, and cheese, avocados and nut butters, chickpeas, lentils, almonds, and peanuts, ofu and tempeh",
+        "Food to Avoid": "Processed Foods(Processed foods should be avoid like, fast food, and highly processed snacks), Sugary Drinks, Saturated Fats, Alcohol, Excessive Salt(Limit salt intake)"
+    },
+    "alcoholic hepatitis": {
+        "Food to Eat": "Lean Proteins(Fish, poultry, eggs, tofu, beans, and lentils)Whole Grains (Brown rice, quinoa, barley, oatmeal, and whole-wheat bread) Fruits and Vegetables(A variety of colorful fruits and vegetables, especially cruciferous vegetables like broccoli, cabbage, and cauliflower), Healthy Fats(Olive oil, avocados, and nuts.), Dairy(Low-fat or fat-free dairy products) Coffee, green tea, and garlic",
+        "Food to Avoid": "Alcohol, Processed Foods, Sugary Drinks: Avoid soda and fruit juices, Fatty Foods: Limit fried foods, red meat, and high-fat dairy, Salty Foods (Be mindful of salt intake and avoid excessive salt)"
+    },
+    "tuberculosis": {
+        "Food to Eat": "Protein (Lean meats, poultry, fish, eggs, beans, lentils, and dairy products), Complex Carbohydrates(Coarse grains, potatoes, oats, and boiled rice), Avocados, nuts, and seeds, Fruits and Vegetables, Probiotic Foods(Yogurt and curd), Vitamin-rich foods",
+        "Food to Avoid": "processed food(refined grains, sugary snacks, and fried foods), Alcohol and tobacco, High-fat foods, junk food"
+    },
+    "common cold": {
+        "Food to Eat": "Citrus Fruits(Oranges, lemons, grapefruits), Leafy Greens(\nSpinach, kale), Chicken broth, Ginger, Honey, Bananas, Oily fish, egg, garlic and Onions, Broccoli, Brussels Sprouts, and Butternut Squash, Green tea",
+        "Food to Avoid": "Sugary Drinks (soda, juice and sweetened tea), Processed foods, Oily and Spicy food, Alcohol, Dairy "
+    },
+    "pneumonia": {
+        "Food to Eat": "Oats, brown rice, and whole wheat products, beans, lentils, nuts, dairy products, fish, and poultry, Spinach, kale, and lettuce, Oranges, lemons, and grapefruits, Honey, Ginger ad garlic, Yogurt and other probiotic-rich foods, Water, tea, and soup",
+        "Food to Avoid": "High-sodium foods, Alcohol, sugary drinks, fried, foods, red meat"
+    },
+    "dimorphic hemmorhoids(piles)": {
+        "Food to Eat": "Fruits(Apples, pears, bananas, berries, prunes, kiwi, papaya, and grapes), Vegetables(Cabbage, kale, spinach, broccoli, sprouts, onions, tomatoes, turnips, cucumbers, watermelons, and celery), Whole grains(Quinoa, barley, rye, brown rice, oats, multi-grain or dark rye breads, wholemeal pasta), Legumes: Beans, lentils, and chickpeas, Nuts: Almonds and pecans",
+        "Food to Avoid": "processed foods, refined flour, white rice and dairy products, Red meat, Alcohol and caffeine, Spicy foods, high-fat foods, dairy, "
+    },
+    "heart attack": {
+        "Food to Eat": "whole grains like oatmeal, brown rice, and whole-grain bread or tortillas, lean protein like 95% lean ground beef, pork tenderloin, skinless chicken/turkey, fish eggs, nuts, seeds and soy products, healthy fats like like canola, corn, olive, safflower, sesame, sunflower, and soybean oils, seeds, avocados, legumes like beans, chickpeas , berries ",
+        "Food to Avoid": "Saturated and trans fats, sodiem, Added sugars, processed meats, red meat, refined grains. Fried foods, sugary drinks High-fat dairy, Alcohol "
+    },
+    "varicose veins": {
+        "Food to Eat": "Whole grains (oats, brown rice, whole wheat bread), Legumes (lentils, chickpeas, kidney beans), Fruits (berries, oranges, apples, pears), Vegetables (broccoli, leafy greens, asparagus, watercress)Berries (blackberries, blueberries), Citrus fruits (oranges, lemons, grapefruits), Onions, bell peppers, spinach, broccoli , Grapes, cherries, apples, Dark chocolate (in moderation), healthy fats ",
+        "Food to Avoid": "Excessive Red Meat,Refined Carbohydrates(White bread, pasta, and pastries), High Sodium foods"
+    },
+    "hypothyroidism": {
+        "Food to Eat": "Iodine-rich foods: Seaweed (nori, kelp, wakame), fish (cod, tuna, salmon), dairy products, eggs, and iodized salt. Selenium-rich foods: Brazil nuts, tuna, sardines, eggs, legumes. Zinc-rich foods: Oysters, beef, chicken, pumpkin seeds, yogurt. Omega-3 fatty acids: Fatty fish (salmon, mackerel, sardines), flaxseeds, chia seeds, walnuts. Antioxidant-rich foods: Berries, dark leafy greens, nuts, green tea. Fiber-rich foods: Whole grains, fruits, vegetables, legumes. ",
+        "Food to Avoid": "Excess fiber from beans, legumes, and vegetables, Goitrogens: Raw cruciferous vegetables (broccoli, cauliflower, cabbage), soy products, millets, cassava, Processed foods and sugars,Excessive alcohol"
+    },
+    "hyperthyroidism": {
+        "Food to Eat": "Low-iodine foods: Fruits, vegetables (especially leafy greens), whole grains (rice, oats), lean proteins, and healthy fats, Selenium-rich foods: Brazil nuts, mushrooms, meat (beef, lamb), poultry, chia seeds, and sunflower seeds, Zinc-rich foods: Beef, chickpeas, cocoa powder, cashews, mushrooms, pumpkin seeds, and lamb, Antioxidant-rich foods: Berries, fruits, and vegetables, Spices: Turmeric, green chilies, and black pepper. ",
+        "Food to Avoid": "Iodine-rich foods: Seaweed, fish, shellfish, oysters, and any food fortified with iodine, Dairy products, Caffeine, Processed foods, Sugar and sugary drinks, Gluten, Red meat, Trans fats, soy products, Cruciferous vegetables, Alcohol"
+    },
+    "hypoglycemia": {
+        "Food to Eat": "Lean Proteins(chicken, fish, eggs, tofu, Greek yogurt), Complex Carbohydrates (Whole grains, beans, and lentils), Non-Starchy Vegetables(Leafy greens, peppers, tomatoes, and onions), Healthy Fats(Nuts, seeds, and avocados), Fruits, Low-Carb Milk and Yogurt, Fiber-Rich Foods (Oatmeal, salads, and seafood)",
+        "Food to Avoid": "Sugary Foods and Drinks, Refined Grains (White bread, white rice, and pastries), Excessive Caffeine and Alcohol"
+    },
+    "osteoarthristis": {
+        "Food to Eat": "Fruits and Vegetables, Whole Grains, Healthy Fats(Found in fish, nuts, seeds, and olive oil), Legumes (Beans, lentils, and peas), Dairy and Dairy Alternatives, Anti-inflammatory Spices(ginger, turmeric and garlic), Omega-3 Fatty acids ",
+        "Food to Avoid": "Processed Foods, Refined Carbohydrates(White rice, pasta, and pastries), Sugary Drinks (Sodas, juices, and sweetened beverages), Alcohol"
+    },
+    "arthritis": {
+        "Food to Eat": "Fatty Fish, Garlic and Onions, Ginger, Broccoli, walnuts, berries, Green vegetables, mediterranean Diet",
+        "Food to Avoid": "Red Meat and Processed Meats, Refined Sugar and Processed Foods, Excessive Salt Intake, Sugar-Sweetened Beverages and Alcohol, Nightshade Vegetables (Potatoes, Tomatoes, Eggplant, Peppers)"
+    },
+    "(vertigo) paroymsal  positional vertigo": {
+        "Food to Eat": "Fruits and vegetables, Leafy greens,Potassium-rich foods:\nBananas and avocados, Omega-3 fatty acids, Ginger, Whole grains:\nBrown rice, oats, and whole wheat bread, Lean proteins:\nEggs, yogurt, and beans",
+        "Food to Avoid": "Alcohol, Caffeine,High sodium foods, Processed foods, and canned goods, sugary foods and drinks, dairy products , Fried and fatty foods"
+    },
+    "acne": {
+        "Food to Eat": "Omega-3 Fatty Acids(fatty fish (salmon, mackerel), nuts, seeds, and fish oil), Antioxidants(Blueberries, leafy greens, red cabbage, green tea, and foods like red grapes, mulberries, and peanuts), Fiber-Rich Foods (Oatmeal, beans, apples, carrots, and whole grains like quinoa, whole wheat, and brown rice), Vitamine and Minerals , Healthy fats, Lean Protein: Turkey, chicken, fish, tofu",
+        "Food to Avoid": "High Glycemic Index Foods(White bread, white rice, sugary foods, potato fries, milkshakes), Processed Foods (Refined grains, sugary drinks, fast food), Dairy Products, Refined Sugar, Trans Fats, Caffeine and Alcohol "
+    },
+    "urinary tract infection": {
+        "Food to Eat": "Cranberries, Blueberries and other berries, Foods rich in Vitamin C(oranges, grapefruits, strawberries, and green leafy vegetables), Probiotic-rich foods (Yogurt, sauerkraut, and kimchi), High-fiber foods(include beans, lentils, and whole grains), Garlic, Salmon and other cold-water fish, Water ",
+        "Food to Avoid": "High-sugar foods and drinks(soda, candy, and sweetened beverages), Caffeine, Acidic fruits and foods(emons, oranges, and tomatoes, Spicy foods, Alcohol "
+    },
+    "psoriasis": {
+        "Food to Eat": "Fruits and Vegetables, Lean Proteins(Choose fish, poultry, and beans), Whole Grains, Healthy Fats(olive oil, avocados, and nuts), Whole Grains, Healthy Fats, Low-Fat Dairy, Fish and Seafood, Legumes (Beans and Lentils), Nut and seeds, ",
+        "Food to Avoid": "Red Meat, Processed Foods, Dairy, Nightshades(Tomatoes, potatoes, eggplants, and peppers), Alcohol, High-Glycemic Foods (Sugary drinks, processed snacks, and refined grains), Gluten"
+    },
+    "impetigo": {
+        "Food to Eat": "Zinc-rich foods (Beef, lamb, pork, oysters, chickpeas, lentils, beans, and pumpkin seeds), Protein-rich foods (Lean meats (chicken, turkey), fish, dairy products (milk, cheese, yogurt), legumes (beans, lentils), and eggs), Foods with antioxidants (Ginger, turmeric, green tea, fresh leaves (coriander, mint, basil)",
+        "Food to Avoid": "Foods with high bacterial risk: Aged cheeses, raw eggs, raw fish, undercooked meats, and raw peanut butter. \nFoods that may worsen skin inflammation: Processed foods, sugary drinks, and excessive caffeine. "
+    }
+}
