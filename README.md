@@ -27,7 +27,7 @@ This project aims to solve that problem by building a machine learning-powered s
 -	Natural language input (NLP-based keyword extraction)
 -	Machine learning model predicts disease based on symptom vectorization
   
-•	**Food Recommendation System:
+•	**Food Recommendation System:**
 
 -	Returns recommended foods to eat and avoid for the predicted disease
   
@@ -72,21 +72,21 @@ This project aims to solve that problem by building a machine learning-powered s
 
 project-folder/
 
-app.py                            				Streamlit application
+app.py                            				_Streamlit application_
 
-best_disease_prediction_model.pkl 				Trained ML model
+best_disease_prediction_model.pkl 				_Trained ML model_
 
-label_encoder.pkl                 				Label encoder for disease names
+label_encoder.pkl                 				_Label encoder for disease names_
 
-training_features_list.txt        				List of all symptom features
+training_features_list.txt        				_List of all symptom features_
 
-master_dataset.csv                				Disease description and precaution info
+master_dataset.csv                				_Disease description and precaution info_
 
-Food_and_Nutrition_TEMPLATE.csv   				Disease-food mapping
+Food_and_Nutrition_TEMPLATE.csv   				_Disease-food mapping_
 
-prediction_history.csv            				Automatically generated prediction history
+prediction_history.csv            				_Automatically generated prediction history_
 
-background.jpg                    				Optional background image
+background.jpg                    				_Optional background image_
 
 ## System Requirements
 
@@ -94,7 +94,7 @@ Python 3.8+
 
 •	Required Libraries:
 
-pip install streamlit pandas scikit-learn joblib
+`pip install streamlit pandas scikit-learn joblib`
 
 ## Accessibility & Usage
 
@@ -114,7 +114,7 @@ pip install streamlit pandas scikit-learn joblib
   
 •	**How to Run the App**
 1. Place all files in the project directory.
-2. From terminal or command prompt, run: streamlit run main.py
+2. From terminal or command prompt, run: `streamlit run main.py`
 3. Access the app in your browser at: http://localhost:8501
    
 ## Future Enhancements (Optional Ideas)
