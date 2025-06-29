@@ -103,24 +103,56 @@ st.set_page_config(page_title="Smart Disease Predictor", layout="centered")
 def set_background(image_file):
     with open(image_file, "rb") as f:
         encoded_image = base64.b64encode(f.read()).decode()
-    background_css = f'''
+
+    background_css = f"""
     <style>
+    /* Global Background */
     [data-testid="stAppViewContainer"] {{
         background-image: url("data:image/jpg;base64,{encoded_image}");
-        background-size: cover;
         background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
         background-attachment: fixed;
     }}
+
     [data-testid="stHeader"], [data-testid="stToolbar"] {{
         background-color: rgba(0, 0, 0, 0.6);
     }}
+
     .block-container {{
-        background-color: rgba(0, 0, 0, 0.8);
-        border-radius: 10px;
-        padding: 2.5rem;
+        background-color: rgba(0, 0, 0, 0.85);
+        border-radius: 12px;
+        padding: 2rem;
+        margin: 2rem auto;
+        max-width: 95%;
+        font-size: 1.1rem;
+    }}
+
+    /* Improve mobile scaling */
+    @media screen and (max-width: 768px) {{
+        [data-testid="stAppViewContainer"] {{
+            background-size: cover;
+            background-attachment: scroll;
+            background-position: center top;
+        }}
+
+        .block-container {{
+            padding: 1rem;
+            margin: 0.5rem auto;
+            width: 100%;
+            font-size: 1.2rem;
+        }}
+
+        .stTextInput input, .stTextArea textarea, .stSelectbox div, .stButton button {{
+            font-size: 1.1rem !important;
+        }}
+
+        .stRadio label, .stMarkdown p {{
+            font-size: 1.1rem !important;
+        }}
     }}
     </style>
-    '''
+    """
     st.markdown(background_css, unsafe_allow_html=True)
 
 set_background("background.jpg")
