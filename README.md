@@ -1,4 +1,4 @@
-**Smart Disease Prediction and Food Recommendation System**
+# Smart Disease Prediction and Food Recommendation System
 
 **Project Overview**
 
@@ -6,7 +6,7 @@ This project is a machine learning-powered web application that predicts possibl
 
 Built using Python, scikit-learn, Streamlit, and pandas, the system supports manual input, natural language processing (NLP) for symptom description, batch predictions via CSV upload, and includes an admin dashboard for data and model management.
 
-**Features Implemented**
+## Features Implemented
 
 •	**Disease Prediction from Symptoms:**
 
@@ -14,7 +14,7 @@ Built using Python, scikit-learn, Streamlit, and pandas, the system supports man
 -	Natural language input (NLP-based keyword extraction)
 -	Machine learning model predicts disease based on symptom vectorization
   
-•	**Food Recommendation System:**
+•	**Food Recommendation System:
 
 -	Returns recommended foods to eat and avoid for the predicted disease
   
@@ -55,7 +55,7 @@ Built using Python, scikit-learn, Streamlit, and pandas, the system supports man
 -	Emoji-based icons for navigation
 -	Organized layout using Streamlit UI elements
 
-**Project Structure**
+## Project Structure
 
 project-folder/
 
@@ -75,7 +75,7 @@ prediction_history.csv            				Automatically generated prediction history
 
 background.jpg                    				Optional background image
 
-**System Requirements**
+## System Requirements
 
 Python 3.8+
 
@@ -83,7 +83,7 @@ Python 3.8+
 
 pip install streamlit pandas scikit-learn joblib
 
-**Accessibility & Usage**
+## Accessibility & Usage
 
 •	**User Access**
 
@@ -104,10 +104,15 @@ pip install streamlit pandas scikit-learn joblib
 2. From terminal or command prompt, run: streamlit run main.py
 3. Access the app in your browser at: http://localhost:8501
    
-**Future Enhancements (Optional Ideas)**
+## Future Enhancements (Optional Ideas)
 
 •	Add multi-language support
+
 •	Integrate AI chatbot assistant
+
 •	Enable user registration & session storage
+
 •	Add real-time symptom ranking
+
 •	Connect to real-time food databases via API
+
